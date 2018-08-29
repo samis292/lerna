@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  ICE VERSION
   A tool for managing JavaScript projects with multiple packages.
 </p>
 
