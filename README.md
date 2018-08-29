@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Lerna" src="https://cloud.githubusercontent.com/assets/952783/15271604/6da94f96-1a06-11e6-8b04-dc3171f79a90.png" width="480">
+  <img alt="Lerna" src="https://in8life.com/wp-content/uploads/2016/07/three-ice-cubes.jpg" width="480">
 </p>
 
 <p align="center">
